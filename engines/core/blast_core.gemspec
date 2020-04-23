@@ -29,6 +29,7 @@ Gem::Specification.new do |spec|
   spec.add_dependency "sass-rails"
   spec.add_dependency "jquery-rails"
   spec.add_dependency "bootstrap"
+  spec.add_dependency "devise"
 
   spec.add_development_dependency "sqlite3"
 end
