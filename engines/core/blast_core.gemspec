@@ -32,4 +32,9 @@ Gem::Specification.new do |spec|
   spec.add_dependency "devise"
 
   spec.add_development_dependency "sqlite3"
+  spec.add_development_dependency "bootsnap"
+  spec.add_development_dependency "database_cleaner"
+  spec.add_development_dependency "factory_bot_rails"
+  spec.add_development_dependency "faker"
+  spec.add_development_dependency "rspec-rails"
 end
