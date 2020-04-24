@@ -14,5 +14,4 @@ module Blast
       end
     end
   end
-  end
 end
